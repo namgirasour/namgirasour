@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;1,300&family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;1,300&family=Anybody&display=swap');
 
 *{
     box-sizing: border-box;
@@ -89,7 +89,7 @@ label #sign-two{
 }
 
 h1{
-    font-family: 'EB Garamond', serif;
+    font-family: 'Anybody', serif;
     color: #000000;
     margin-bottom: 1rem;
     font-size: 46px;
@@ -101,7 +101,7 @@ h1{
 }
 
 h2{
-    font-family: 'EB Garamond', serif;
+    font-family: 'Anybody', serif;
     font-size: 32px;
     color: #000000;
     line-height: 25px;
@@ -154,7 +154,7 @@ p.view{
 }
 
 .title{
-        font-family: 'EB Garamond', serif;
+        font-family: 'Anybody', serif;
         color: #000000;
         line-height: 30px;
         font-weight: 400;
@@ -378,7 +378,7 @@ footer{
     }
 
     nav ul li a{
-        font-family: 'EB Garamond', serif;
+        font-family: 'Anybody', serif;
         font-size: 20px;
         font-weight: 400;
     }
@@ -395,7 +395,7 @@ footer{
     }
 
     h1, .homeheader{
-    font-family: 'EB Garamond', serif;
+    font-family: 'Anybody', serif;
     font-size: 2rem;
     margin-bottom: 1rem;
     color:#000000;
@@ -414,7 +414,7 @@ h1.homeheader{
 
 }
 h2{
-    font-family: 'EB Garamond', serif;
+    font-family: 'Anybody', serif;
     font-size: 1.5rem;
     line-height: 1.4rem;
     color: #000000;
@@ -442,7 +442,7 @@ p.view{
 a{
     text-decoration: none;
     color: #D3ABA5;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Anybody', serif;
     font-weight: 400;
 }
     a.link{
